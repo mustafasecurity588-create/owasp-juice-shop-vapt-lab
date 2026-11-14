@@ -27,7 +27,6 @@ The objective was to practice vulnerability assessment, analyze security configu
 ## Repository Contents
 
 - `Report/` – Final assessment report in PDF format.
-- `Evidence/` – Sanitized screenshots supporting the findings.
 - `Methodology/` – Testing approach and validation notes.
 
 ## Scope and Disclaimer
